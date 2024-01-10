@@ -1,8 +1,8 @@
 ---
 title: Welcome to the new site!
 date: 2024-01-10 0:00:00 -0600
-categories: [Announcement, Blogging]
-tags: [important, update]
+categories: [Announcement]
+tags: [important, update, blogging]
 img_path: /resources/images/posts/welcome to the new site/
 ---
 ## Site Changes
