@@ -11,7 +11,7 @@ order: 6
 ##### Discord: buzzbb
 > Open for any talk
 
-#### Github: [bzzzthe18th](https://github.com/bzzzthe18th)
+##### Github: [bzzzthe18th](https://github.com/bzzzthe18th)
 > Project issues/pull requests only
 
 ##### Email: buzzbbbusiness@skiff.com
