@@ -9,9 +9,7 @@ title: buzzbb
 tagline: Programmer, game modder, VR enthusiast, editor.
 
 description: >-
-  Programmer, game modder, VR enthusiast, editor.
-
-url:
+  Programmer, game modder, VR enthusiast, editor. 
 
 github:
   username: bzzzthe18th
@@ -55,8 +53,6 @@ pwa:
   enabled: true
 
 paginate: 10
-
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
