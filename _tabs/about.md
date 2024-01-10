@@ -1,8 +1,7 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
 ---
+Hi, my name is Buzz, I go by [She/Her](https://pronouns.org/she-her) and [They/Them](https://pronouns.org/they-them) and prefer [They/Them](https://pronouns.org/they-them). I am a VR enthusiast and excited to see what heights it can bring us to in the coming years as VR technology grows. I love programming, modding and games with unique locomotion.
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+🕊 Fly high Polar
