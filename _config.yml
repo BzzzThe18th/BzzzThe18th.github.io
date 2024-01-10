@@ -25,16 +25,7 @@ social:
     - https://patreon.com/bzzzthe18th
     - https://discord.gg/mVZDatdExM
 
-google_site_verification:
-
-google_analytics:
-  id:
-
-theme_mode:
-
-img_cdn:
-
-avatar: favicon.ico
+avatar: avatar.png
 
 toc: true
 
@@ -65,7 +56,7 @@ pwa:
 
 paginate: 10
 
-baseurl: "buzzbb.dev"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
