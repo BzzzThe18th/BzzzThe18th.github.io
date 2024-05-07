@@ -9,13 +9,13 @@ order: 6
 #### If you can listen to that
 
 ##### Discord: buzzbb
-> Open for any talk
+> Send a friend request and/or ping me somewhere, business inquiries or important information only
 
 ##### Github: [bzzzthe18th](https://github.com/bzzzthe18th)
-> Project issues/pull requests only
+> **Personal** Project issues/pull requests only
 
 ##### Email: buzzbbbusiness@skiff.com
-> Business inquiries only
+> **Personal** business inquiries only
 
 ##### Email: buzztocabusiness@skiff.com
-> Buzztoca business inquiries only
+> **Buzztoca** business inquiries only
