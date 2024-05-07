@@ -1,5 +1,0 @@
-- type: Mastodon
-  icon: "fa-brands fa-mastodon"
-  instances:
-    - label: mastodon.social
-      link: "https://mastodon.social/@buzzbb"
