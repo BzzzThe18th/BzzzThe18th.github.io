@@ -8,14 +8,8 @@ order: 6
 
 #### If you can listen to that
 
-##### Discord: buzzbb
-> Send a friend request and/or ping me somewhere, business inquiries or important information only
-
 ##### Github: [bzzzthe18th](https://github.com/bzzzthe18th)
 > **Personal** Project issues/pull requests only
 
-##### Email: buzzbbbusiness@skiff.com
-> **Personal** business inquiries only
-
-##### Email: buzztocabusiness@skiff.com
+##### Email: buzztoca@protonmail.com
 > **Buzztoca** business inquiries only
